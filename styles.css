@@ -1,0 +1,30 @@
+
+.navbar-container {
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+}
+.navlinks-container {
+    display: flex;
+    gap: 32px;
+}
+.logo {
+    font-size: 32px;
+    color: skyblue;
+}
+.body-container {
+    width: 90x;
+    margin: auto;
+}
+.post-btn {
+    background-color: pink;
+    padding: 8px 32px;
+    color: blue;
+    border:0 ;
+    border-radius: 32px;
+}
+
+.main-container {
+    width: 40%;
+    margin:auto
+}
